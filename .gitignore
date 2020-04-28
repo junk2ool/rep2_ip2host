@@ -55,3 +55,6 @@ dwsync.xml
 *.komodoproject
 .komodotools
 *.bak
+
+# Visual Studio
+.vs/
